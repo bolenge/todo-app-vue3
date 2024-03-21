@@ -4,7 +4,7 @@
 <template>
   <div>
     <div class="text-center my-10 prose">
-      <h1>Hello world !</h1>
+      <h1>Todo App</h1>
     </div>
   </div>
 </template>
